@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **maximillankalayi001@gmail.com**
 
-- ⚡ Fun fact **I am not friendly**
+- ⚡ Fun fact **I am very friendly**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
