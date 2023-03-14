@@ -4,8 +4,6 @@
 
 <p align="left"> <a href="https://twitter.com/_mkalayi" target="blank"><img src="https://img.shields.io/twitter/follow/_mkalayi?logo=twitter&style=for-the-badge" alt="_mkalayi" /></a> </p>
 
-- 🌱 I’m currently learning **Git and Github**
-
 - 📫 How to reach me **maximillankalayi001@gmail.com**
 
 - ⚡ Fun fact **I am very friendly**
